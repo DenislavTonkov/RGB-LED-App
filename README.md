@@ -10,7 +10,7 @@ This repository introduces an Arduino Bluetooth application, methodically develo
 <p align='center'>
   
 
-https://github.com/DenislavTonkov/RGB-LED-App/assets/83066616/7b551d30-dca0-4a51-8971-fd8d9629c6d9
+https://github.com/DenislavTonkov/RGB-LED-App/assets/83066616/696bc05b-c98e-4cad-809f-d008551c0641
 
 
 </p>

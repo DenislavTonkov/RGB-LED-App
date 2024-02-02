@@ -6,6 +6,15 @@ This repository introduces an Arduino Bluetooth application, methodically develo
   <img src="https://github.com/DenislavTonkov/RGB-LED-App/assets/83066616/376a4b8f-4be7-420c-aa64-7672aa682d2d" width="800" height="450">
 </p>
 
+## Project demo:
+<p align='center'>
+  
+
+https://github.com/DenislavTonkov/RGB-LED-App/assets/83066616/7b551d30-dca0-4a51-8971-fd8d9629c6d9
+
+
+</p>
+
 ## Components Used
   * Arduino board (e.g., Arduino Uno)
   * RGB LED (common cathode or common anode)
